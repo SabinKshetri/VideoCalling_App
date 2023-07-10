@@ -1,0 +1,11 @@
+body{
+  background: #ccc;
+}
+.App{
+  text-align: center;
+}
+button{
+  background: green;
+  padding:2px;
+  color: #fff;
+}
